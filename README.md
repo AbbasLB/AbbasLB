@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+👨‍💻 Abbas Khreiss | Software Engineer
+
+🎓 Master's Degree in Computer Science - Distributed Computing | Ensimag & UGA
+
+🚀 2 years of professional experience at a Boston-based startup, building multiple features from scratch and integrating crucial services into our application. Experienced in C#, ASP.NET Core and Windows Development. Used Google Cloud Platform, Microsoft Azure, SendGrid and Stripe. 
+
+🌟 Currently working as a Software Engineer Intern at Criteo. During my first internship there, I worked as a Full Stack Developer, and then I joined again for my master's final year internship working with the NoSQL team, learning more about distributed systems and NoSQL databases. 
+
+I am passionate about pushing boundaries and leveraging cutting-edge technologies to drive impactful results.
+
 <!--
 **AbbasLB/AbbasLB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
