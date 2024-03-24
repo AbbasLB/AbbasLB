@@ -1,5 +1,3 @@
-### Hi there 👋
-
 👨‍💻 Abbas Khreiss | Software Engineer
 
 🎓 Master's Degree in Computer Science - Distributed Computing | Ensimag & UGA
